@@ -1,0 +1,15 @@
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\bin\Debug\net6.0\Flexing-WEBM.exe
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\bin\Debug\net6.0\Flexing-WEBM.deps.json
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\bin\Debug\net6.0\Flexing-WEBM.runtimeconfig.json
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\bin\Debug\net6.0\Flexing-WEBM.dll
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\bin\Debug\net6.0\Flexing-WEBM.pdb
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\obj\Debug\net6.0\Flexing-WEBM.csproj.AssemblyReference.cache
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\obj\Debug\net6.0\Flexing-WEBM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\obj\Debug\net6.0\Flexing-WEBM.AssemblyInfoInputs.cache
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\obj\Debug\net6.0\Flexing-WEBM.AssemblyInfo.cs
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\obj\Debug\net6.0\Flexing-WEBM.csproj.CoreCompileInputs.cache
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\obj\Debug\net6.0\Flexing-WEBM.dll
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\obj\Debug\net6.0\refint\Flexing-WEBM.dll
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\obj\Debug\net6.0\Flexing-WEBM.pdb
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\obj\Debug\net6.0\Flexing-WEBM.genruntimeconfig.cache
+C:\Users\VETKOVER\Desktop\Flexing-WEBM\Flexing-WEBM\Flexing-WEBM\obj\Debug\net6.0\ref\Flexing-WEBM.dll

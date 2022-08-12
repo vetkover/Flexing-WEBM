@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Flexing-WEBM": {
+      "commandName": "Project",
+      "commandLineArgs": "C:/Users/VETKOVER/Desktop/Flexing-WEBM/Flexing-WEBM/Flexing-WEBM/bin/Debug/net6.0/Saul_goodman_3d.mp4",
+      "workingDirectory": "C:\\Users\\VETKOVER\\Desktop\\Flexing-WEBM\\Flexing-WEBM\\Flexing-WEBM\\bin\\Debug\\net6.0"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
